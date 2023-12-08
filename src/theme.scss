@@ -1,0 +1,4 @@
+@use "@evolve/scss-lib/src/sass/evolve"; // Core styles
+@use "@evolve/angular-components/lib/scss/evolve-theme"; // Component styles
+
+@include evolve-theme.ev-theme;
